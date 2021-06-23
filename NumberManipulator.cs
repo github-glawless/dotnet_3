@@ -17,19 +17,18 @@ namespace dotnet_3
             //GitHub repository and paste the link below.
 
             Console.WriteLine("Give me an integer:");
+            
             string line = Console.ReadLine(); // Read string from console
             int value;
-            if (int.TryParse(line, out value)) // Try to parse the string as an integer
+
+            if (int.TryParse(line, out value)) // Try to parse the string as an integer 
             {
-                int squared = value * value ; 
-                int squared14 = squared + 14 ; 
-                int squared143 = squared14 - 3 ;
-                Console.Write($"The value you entered is {value}. Sqauring it, adding 14 and subtracting 3 gives {(value * value) +14 -3}.  ");
+                Console.Write($"The value you entered is {value}. Sqauring it, adding 14 and subtracting 3 gives {(value * value) + 14 - 3}.  ");
                 Console.WriteLine("You rock dude!!");
             }
             else
             {
-            Console.WriteLine("Not an integer dirtbag!");
+                Console.WriteLine("Not an integer dirtbag!");
             }
         }
     }
