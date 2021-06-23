@@ -1,0 +1,16 @@
+C:\Users\glawless\nelnet-projects\dotnet_3\bin\Debug\net5.0\dotnet_3.exe
+C:\Users\glawless\nelnet-projects\dotnet_3\bin\Debug\net5.0\dotnet_3.deps.json
+C:\Users\glawless\nelnet-projects\dotnet_3\bin\Debug\net5.0\dotnet_3.runtimeconfig.json
+C:\Users\glawless\nelnet-projects\dotnet_3\bin\Debug\net5.0\dotnet_3.runtimeconfig.dev.json
+C:\Users\glawless\nelnet-projects\dotnet_3\bin\Debug\net5.0\dotnet_3.dll
+C:\Users\glawless\nelnet-projects\dotnet_3\bin\Debug\net5.0\ref\dotnet_3.dll
+C:\Users\glawless\nelnet-projects\dotnet_3\bin\Debug\net5.0\dotnet_3.pdb
+C:\Users\glawless\nelnet-projects\dotnet_3\obj\Debug\net5.0\dotnet_3.csproj.AssemblyReference.cache
+C:\Users\glawless\nelnet-projects\dotnet_3\obj\Debug\net5.0\dotnet_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\glawless\nelnet-projects\dotnet_3\obj\Debug\net5.0\dotnet_3.AssemblyInfoInputs.cache
+C:\Users\glawless\nelnet-projects\dotnet_3\obj\Debug\net5.0\dotnet_3.AssemblyInfo.cs
+C:\Users\glawless\nelnet-projects\dotnet_3\obj\Debug\net5.0\dotnet_3.csproj.CoreCompileInputs.cache
+C:\Users\glawless\nelnet-projects\dotnet_3\obj\Debug\net5.0\dotnet_3.dll
+C:\Users\glawless\nelnet-projects\dotnet_3\obj\Debug\net5.0\ref\dotnet_3.dll
+C:\Users\glawless\nelnet-projects\dotnet_3\obj\Debug\net5.0\dotnet_3.pdb
+C:\Users\glawless\nelnet-projects\dotnet_3\obj\Debug\net5.0\dotnet_3.genruntimeconfig.cache
